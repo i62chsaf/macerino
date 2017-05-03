@@ -1,0 +1,5 @@
+Contenido de esta carpeta:
+- Documentación: Documentación de diseño y contrucción del Controlador Arduino para maceración
+- macerino. Código fuente Arduino del programa controlador del macerador
+- Presentación. Documento para la exposición en clase
+- Test. Test en formto GIFT sobre Macerino
